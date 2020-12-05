@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on TemuOne</title>
+    <link>https://temuone.github.io/tags/ai/</link>
+    <description>Recent content in AI on TemuOne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0800</lastBuildDate><atom:link href="https://temuone.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seekmi</title>
+      <link>https://temuone.github.io/blog/2020/10/24/3-seekmi/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/10/24/3-seekmi/</guid>
+      <description>Yuk santap Startup n Chips kamu hari ini dengan membahas salah satu startup prospek di Indonesia yang bernama Seekmi!
+Mungkin belum banyak yang tahu mengenai startup yang bernama Seekmi ini. Didirikan pada tahun 2015 oleh Wilson Yanaprasetya dan Nayoko Wicaksono, Seekmi menyediakan pelayanan rumah berbasis online, web, dan mobile app. Seekmi adalah solusi berbasis aplikasi yang mengkoneksikan penyedia jasa lokal dengan para pelanggan.
+Butuh benerin AC, barang elektronik, atau renovasi rumah!</description>
+    </item>
+    
+    <item>
+      <title>GeNose</title>
+      <link>https://temuone.github.io/blog/2020/10/23/2-genose/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/10/23/2-genose/</guid>
+      <description>Halo teman-teman penemu! Pada tahu gak sih kalau negara kita sudah membuat inovasi yang keren banget nih! Inovasi ini tentang pendeteksian Covid-19.
+Seperti yang kalian tahu, selama ini kan pendeteksian Covid-19 itu biasanya menggunakan PCR test kan ya. Nah, PCR test tuh butuh biaya yang gak sedikit loh guys. Harga PCR test saat ini dipatok maksimal 900 ribu di seluruh Indonesia. Mahal banget gak sih?
+Jadii untuk mengurangi ketergantungan kita dengan PCR test, ada inovasi baru nih!</description>
+    </item>
+    
+    <item>
+      <title>Flip</title>
+      <link>https://temuone.github.io/blog/2020/10/21/1-flip/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/10/21/1-flip/</guid>
+      <description>Biaya Transfer Antar-Bank? Say No More.
+Everyone, meet Flip. Flip adalah aplikasi untuk melakukan transfer antar bank tanpa biaya. Pernah kesel gara-gara harus bayar biaya transfer tiap belanja di olshop favorit kamu? Atau merasa sayang pas kamu harus keluar 6.500 rupiah saat transfer uang ke pacar kamu? Say no more! Karena dengan Flip, semua biaya itu tidak diperlukan lagi!
+Flip bekerja sebagai jembatan transaksi antar bank dengan cara memegang rekening di berbagai jenis bank.</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://temuone.github.io/blog/2020/10/20/0-artificial-intelligence-0/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/10/20/0-artificial-intelligence-0/</guid>
+      <description>In today’s techno-coffee, let’s talk about AI!
+Tahu gak sih kalau Artificial Intelligence (AI) itu pertama lahir dari pertanyaan Alan Turing pada tahun 1950: “Apakah mesin dapat berpikir?.” Pria yang diceritakan pada film keren Imitation Game (2014) ini kemudian berhasil menciptakan mesin Enigma untuk memecahkan pesan terenkripsi Nazi dan menjadi kunci kemenangan sekutu pada Perang Dunia Kedua! Mesin ini menjadi pemantik untuk terobosan baru: AI yakni mesin atau sistem komputer yang dapat mengerjakan tugas dengan cara berpikir manusia.</description>
+    </item>
+    
+  </channel>
+</rss>

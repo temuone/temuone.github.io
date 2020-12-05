@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technocoffee on TemuOne</title>
+    <link>https://temuone.github.io/categories/technocoffee/</link>
+    <description>Recent content in Technocoffee on TemuOne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0800</lastBuildDate><atom:link href="https://temuone.github.io/categories/technocoffee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Data</title>
+      <link>https://temuone.github.io/blog/2020/10/29/6-big-data/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/10/29/6-big-data/</guid>
+      <description>Baru-baru ini, kita pasti udah sering denger nih istilah “Big Data.” Tapi tahu gak sih apa bedanya Big Data dengan data pada umumnya? Kenapa ya Big Data ini dijadikan istilah baru dan kenapa baru muncul akhir-akhir ini? Yuk kita bahas di Techno-coffee hari ini!
+Jadi guys, Big Data itu juga termasuk data. Tapii bedanya sama data biasa adalah: Big Data ini adalah data yang berukuran besar. Big Data adalah istilah yang digunakan ketika kita punya data yang besar secara volume sekaligus tumbuh eksponensial terhadap waktu.</description>
+    </item>
+    
+    <item>
+      <title>Flip</title>
+      <link>https://temuone.github.io/blog/2020/10/21/1-flip/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/10/21/1-flip/</guid>
+      <description>Biaya Transfer Antar-Bank? Say No More.
+Everyone, meet Flip. Flip adalah aplikasi untuk melakukan transfer antar bank tanpa biaya. Pernah kesel gara-gara harus bayar biaya transfer tiap belanja di olshop favorit kamu? Atau merasa sayang pas kamu harus keluar 6.500 rupiah saat transfer uang ke pacar kamu? Say no more! Karena dengan Flip, semua biaya itu tidak diperlukan lagi!
+Flip bekerja sebagai jembatan transaksi antar bank dengan cara memegang rekening di berbagai jenis bank.</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://temuone.github.io/blog/2020/10/20/0-artificial-intelligence-0/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/10/20/0-artificial-intelligence-0/</guid>
+      <description>In today’s techno-coffee, let’s talk about AI!
+Tahu gak sih kalau Artificial Intelligence (AI) itu pertama lahir dari pertanyaan Alan Turing pada tahun 1950: “Apakah mesin dapat berpikir?.” Pria yang diceritakan pada film keren Imitation Game (2014) ini kemudian berhasil menciptakan mesin Enigma untuk memecahkan pesan terenkripsi Nazi dan menjadi kunci kemenangan sekutu pada Perang Dunia Kedua! Mesin ini menjadi pemantik untuk terobosan baru: AI yakni mesin atau sistem komputer yang dapat mengerjakan tugas dengan cara berpikir manusia.</description>
+    </item>
+    
+  </channel>
+</rss>
