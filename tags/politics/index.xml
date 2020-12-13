@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Politics on TemuOne</title>
+    <link>https://temuone.github.io/tags/politics/</link>
+    <description>Recent content in Politics on TemuOne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0800</lastBuildDate><atom:link href="https://temuone.github.io/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Elections</title>
+      <link>https://temuone.github.io/blog/2020/12/08/27-online-elections/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/12/08/27-online-elections/</guid>
+      <description>Tahukah kamu? Besok, 9 Desember 2020, pilkada serentak akan dilaksanakan pada 270 daerah: 9 provinsi, 224 kabupaten, dan 37 kota. Sempat menuai beberapa kontroversi, pemilihan serentak ini tetap dilakukan di tengah pandemi. Membuat khawatir adanya klaster penyebaran Covid-19 di daerah-daerah pemilihan yang melakukan pilkada ini.
+“Waduh.. terus pemerintah gimana mengantisipasinya?” Ya, tentunya dengan classic protokol kesehatan 3M: memakai masker, menjaga jarak, dan mencuci tangan. Bahkan, juru bicara Satgas Penanganan Covid-19 Wiku Adisasmito ingin agar pilkada tidak mengundang kerumunan saat pencoblosan.</description>
+    </item>
+    
+    <item>
+      <title>Zero-Trust</title>
+      <link>https://temuone.github.io/blog/2020/12/01/23-zero-trust/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/12/01/23-zero-trust/</guid>
+      <description>Halo Sobat Penemu, pastinya sobat penemu udah denger dong dugaan kasus korupsi yang dilakukan oleh Menteri Kelautan dan Perikanan RI, Edhy Prabowo. Cukup memprihatinkan ya.
+Nah gengs korupsi ini problem yang banyak dialami oleh hampir semua negara loh. Khususnya di Indonesia, bukan hanya banyak, korupsi juga merupakan masalah yang sangat besar dan merugikan. Berdasarkan survey yang dilakukan oleh ICW (Indonesian Corruption Watch), pada tahun 2020 ini saja, Indonesia sudah mengalami kerugian sebesar 39.</description>
+    </item>
+    
+  </channel>
+</rss>

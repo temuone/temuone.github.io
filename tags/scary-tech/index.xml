@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scary Tech on TemuOne</title>
+    <link>https://temuone.github.io/tags/scary-tech/</link>
+    <description>Recent content in Scary Tech on TemuOne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0800</lastBuildDate><atom:link href="https://temuone.github.io/tags/scary-tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero-Trust</title>
+      <link>https://temuone.github.io/blog/2020/12/01/23-zero-trust/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/12/01/23-zero-trust/</guid>
+      <description>Halo Sobat Penemu, pastinya sobat penemu udah denger dong dugaan kasus korupsi yang dilakukan oleh Menteri Kelautan dan Perikanan RI, Edhy Prabowo. Cukup memprihatinkan ya.
+Nah gengs korupsi ini problem yang banyak dialami oleh hampir semua negara loh. Khususnya di Indonesia, bukan hanya banyak, korupsi juga merupakan masalah yang sangat besar dan merugikan. Berdasarkan survey yang dilakukan oleh ICW (Indonesian Corruption Watch), pada tahun 2020 ini saja, Indonesia sudah mengalami kerugian sebesar 39.</description>
+    </item>
+    
+    <item>
+      <title>Deepfake</title>
+      <link>https://temuone.github.io/blog/2020/11/29/22-deepfake/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://temuone.github.io/blog/2020/11/29/22-deepfake/</guid>
+      <description>Pagi sobat penemu, kalian tentunya sudah tidak asing dengan kata hoax kan? Hoax atau cerita yang tidak sepenuhnya benar merupakan salah satu permasalahan yang tumbuh tidak terkendali di dunia digital ini. Percaya nggak percaya, hoax ini udah berkembang pesat banget loh, gengs. Sekarang, bukan hanya teks dan gambar, video dan suara juga dapat direkayasa. Rekayasa video dan suara ini bisa dilakukan secara mulus dengan teknologi Deepfake.
+Deepfake, apa tuh? Jadi sobat penemu, Deepfake adalah teknologi sintesis media yang memperbolehkan komputer untuk membuat replika manusia dalam video dengan kualitas yang sangat bagus dan sulit dibedakan.</description>
+    </item>
+    
+  </channel>
+</rss>
